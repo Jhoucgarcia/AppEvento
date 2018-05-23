@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Built-By: T-Gamer
-Build-Jdk: 9.0.4
 Implementation-Title: EventoRest
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jonathas.garcia
 Implementation-Vendor-Id: com.developer
-Implementation-Vendor: Pivotal Software, Inc.
+Build-Jdk: 1.8.0_171
 Implementation-URL: http://projects.spring.io/spring-boot/EventoRest/
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
