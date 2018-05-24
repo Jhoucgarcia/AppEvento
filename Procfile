@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.developer.EventoRest.EventoRestApplication
+web: java -cp target/classes/:target/dependency/* com.developer.EventoRest.EventoRestApplication.java
